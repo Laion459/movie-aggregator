@@ -96,9 +96,13 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
 
 movie_aggregator/
 ├── client.py # Código do cliente (interface de linha de comando)
+
 ├── server.py # Código do servidor (API Flask)
-├── .env # Arquivo com as chaves de API (NÃO COMPARTILHE!)
+
+├── .env # Arquivo com as chaves de API
+
 ├── requirements.txt # Lista de dependências do projeto
+
 └── README.md # Este arquivo
 
 
