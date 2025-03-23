@@ -95,6 +95,7 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
 ![image](https://github.com/user-attachments/assets/a26a5d27-c54c-4009-942d-4bde44011b39)
 
 movie_aggregator/
+
 ├── client.py # Código do cliente (interface de linha de comando)
 
 ├── server.py # Código do servidor (API Flask)
