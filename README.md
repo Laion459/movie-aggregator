@@ -61,6 +61,8 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
     ```
 
     O cliente exibirá um menu interativo no terminal.
+    ![image](https://github.com/user-attachments/assets/eecf2075-6146-4b8b-96a4-113572ed3b9a)
+
 
 ## Uso
 
@@ -69,11 +71,16 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
     *   Digite `1` e pressione Enter.
     *   Digite o título do filme e pressione Enter.
     *   Digite o ano do filme e pressione Enter.
+  
+    ![image](https://github.com/user-attachments/assets/c105d982-e73e-4e8b-8379-bff9d41e9cfa)
+
 
 2.  **Escolher um filme da lista:**
 
     *   Digite `2` e pressione Enter.
     *   Digite o número do filme na lista e pressione Enter.
+    ![image](https://github.com/user-attachments/assets/9a8be2e3-5019-46d3-906d-270bf856529a)
+
 
 3.  **Nova consulta com os mesmos dados:**
 
