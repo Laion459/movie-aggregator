@@ -1,4 +1,5 @@
-Flask
+flask[async]
 requests
 python-dotenv
 gunicorn
+aiohttp
