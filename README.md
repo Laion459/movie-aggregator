@@ -22,7 +22,7 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
 1.  Clone o repositório:
 
     ```bash
-    git clone <seu_repositorio>
+    git clone https://github.com/Laion459/movie-aggregator
     cd movie_aggregator
     ```
 
@@ -94,19 +94,15 @@ Este projeto implementa um serviço que busca informações de filmes de duas AP
 ## Estrutura do Projeto
 ![image](https://github.com/user-attachments/assets/a26a5d27-c54c-4009-942d-4bde44011b39)
 
-movie_aggregator/
-
-    ├── client.py # Código do cliente (interface de linha de comando)
-
-    ├── server.py # Código do servidor (API Flask)
-
-    ├── .env # Arquivo com as chaves de API
-
-    ├── requirements.txt # Lista de dependências do projeto
-
-├── LICENSE # License Apache 2.0
-
-└── README.md # Este arquivo
+    movie_aggregator/
+        ├── client.py               # Código do cliente (interface de linha de comando)
+        ├── server.py               # Código do servidor (API Flask)
+        ├── .env                    # Arquivo com as chaves de API
+        ├── requirements.txt        # Lista de dependências do projeto
+        ├── .gitignore              # Lista de ignora arquivos do projeto
+        ├── example.env             # Arquivo para exemplo de chaves de cada API
+    ├── LICENSE                     # License Apache 2.0
+    └── README.md                   # Este arquivo
 
 
 ## Notas
